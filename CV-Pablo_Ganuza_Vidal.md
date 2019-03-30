@@ -12,7 +12,7 @@ Pablo GANUZA VIDAL
 Education
 ---------
 
-2001 -- 2010
+2001 - 2010
 :   **MA in Computer Engineering**; [University of Seville](https://www.informatica.us.es/) (Seville, Spain)
 
     *Erasmus exchange program: Year 2006/2007 studied at [Hochschule Furtwangen University](http://www.hs-furtwangen.de) (Furtwangen, Germany).*
