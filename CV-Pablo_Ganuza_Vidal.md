@@ -71,7 +71,7 @@ Programming Languages
 :   Very basic knowledge of **C**, having used it at University.
 
 Other technologies
-:   **Linux:** I have used it as my main and unique (when possible) system since 2011.
+:   **Linux:** I have used it as my main and unique (when possible) system since 2007.
 
 :	**Git:** Comfortable with common use cases (push, pull, commit, branch, discard changes, etc.).
 
