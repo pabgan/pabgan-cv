@@ -13,7 +13,7 @@ Education
 ---------
 
 2001 -- 2010
-:   **Computer Engineering**; [Universidad de Sevilla](https://www.informatica.us.es/) (Seville, Spain)
+:   **MA in Computer Engineering**; [University of Seville](https://www.informatica.us.es/) (Seville, Spain)
 
     *Erasmus exchange program: Year 2006/2007 studied at [Hochschule Furtwangen University](http://www.hs-furtwangen.de) (Furtwangen, Germany).*
 
@@ -32,7 +32,7 @@ Experience
 	* Test design and execution for new  features, daily using Linux and SQL to analyze data.
 	* Customized customer releases testing to ensure client expectations are met.
 	* Java, Bash and Python scripts development and code review to automate tests and tasks.
-	* Being this a complicated product I helped increase QA throughput by almost two times.
+	* Being this a complicated product I helped to increase QA throughput by almost two times.
 
 3/2016 - 12/2016
 :	**Senior QA Engineer**; [TCP Sistemas e Ingeniería](http://www.linkedin.com/company/tcp) @ [Microsoft](http://www.microsoft.com) (Madrid, Spain)
@@ -85,7 +85,7 @@ QA specific software
 Other information
 -----------------
 
-* Human Languages:
+* Languages:
 
 	* Spanish	--  native speaker.
 	* English	--  High level (B2 CEFR)
