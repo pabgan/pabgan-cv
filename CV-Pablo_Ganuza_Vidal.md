@@ -61,12 +61,12 @@ Technical skills
 ----------------
 
 Programming Languages
-:   **Java:** Comfortable writing any kind of application, but still not a developer. I have written some functional **Android** applications for internal and personal consumption.
+:   **Java:** I started as a Java intern developer. I am comfortable writing any kind of application, but still not a developer. I have written some functional **Android** applications for internal and personal consumption.
 
 :   **Python:** Still a beginner but comfortable enough to write tests and helper applications.
 	I am *very interested* in pushing this forward.
 
-:   **SQL:** I have used it daily for two years to gather information from DB and reviewing views' definitions.
+:   **SQL:** I have used it daily for two years to gather information from DB and review views' definitions.
 
 :   Very basic knowledge of **C**, having used it at University.
 
