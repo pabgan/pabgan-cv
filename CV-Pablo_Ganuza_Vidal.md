@@ -13,7 +13,7 @@ Education
 ---------
 
 2001 - 2010
-:   **MA in Computer Engineering**; [University of Seville](https://www.informatica.us.es/) (Seville, Spain)
+:   **Computer Engineering**; [University of Seville](https://www.informatica.us.es/) (Seville, Spain)
 
     *Erasmus exchange program: Year 2006/2007 studied at [Hochschule Furtwangen University](http://www.hs-furtwangen.de) (Furtwangen, Germany).*
 
@@ -24,7 +24,7 @@ Experience
 ----------
 
 1/2017 - Present 
-:	**Senior QA Engineer**; [ASSIA](https://www.assia-inc.com) (Madrid, SPAIN)
+:	**QA automation Engineer**; [ASSIA](https://www.assia-inc.com) (Madrid, SPAIN)
 
 	Quality Assurance of generic [DSL/GPON Expresse](https://www.assia-inc.com/products/dsl-expresse/) product and validation and testing of customized releases for customer specific needs.
 
@@ -57,6 +57,13 @@ Twitter, Facebook and Tappsi among others.
 	* Resolve small bugs when Development Team’s workload was high.
 	* Define application behaviour in points not thoroughly defined.
 
+2/2011 - 12/2011
+:	**QA Analyst**; [Tuenti Technologies S.L.](https://www.tuenti.es) (Madrid, Spain)
+
+	I was responsible for the quality of Tuenti Android and J2ME applications, and for internal community management tools, seeking and handling bugs and designing test plans.
+	During the time I was responsible for Android and J2ME applications they experienced a constant user base growth and a better feedback from users, going from 2.5 stars in the Android market to 3.5 stars rating.
+
+
 Technical skills
 ----------------
 
@@ -68,16 +75,16 @@ Programming Languages
 
 :   **SQL:** I have used it daily for two years to gather information from DB and review views' definitions.
 
+:	**Bash:** I do some basic scripting to ease my life.
+
 :   Very basic knowledge of **C**, having used it at University.
 
 Other technologies
 :   **Linux:** I have used it as my main and unique (when possible) system since 2007.
 
-:	**Git:** Comfortable with common use cases (push, pull, commit, branch, discard changes, etc.).
+:	**Git:** Comfortable with common use cases (push, pull, commit, branch, discard changes, etc.). Basic knowledge of other VCSs such as **Subversion** and **CVS**.
 
 :	**Jenkins:** I know my way around it. I have never been in charge of it though.
-
-:	Basic knowledge of other VCSs such as **Subversion** and **CVS**.
 
 QA specific software
 :	Selenium, Robotium, SoapUI, Jira, Trac, Testlink, Microsoft Test Manager
