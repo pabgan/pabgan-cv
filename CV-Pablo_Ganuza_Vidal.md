@@ -15,7 +15,7 @@ Education
 2001 - 2010
 :   **Computer Engineering**; [University of Seville](https://www.informatica.us.es/) (Seville, Spain)
 
-    *Erasmus exchange program: Year 2006/2007 studied at [Hochschule Furtwangen University](http://www.hs-furtwangen.de) (Furtwangen, Germany).*
+    *Erasmus exchange program 2006/2007: Studied at [Hochschule Furtwangen University](http://www.hs-furtwangen.de) (Furtwangen, Germany).*
 
 2013
 :   **ISTQB Certified Tester**; [International Software Testing Qualification Board](http://www.istqb.org/) (Madrid, Spain)
@@ -29,7 +29,7 @@ Experience
 	Quality Assurance of generic [DSL/GPON Expresse](https://www.assia-inc.com/products/dsl-expresse/) product and validation and testing of customized releases for customer specific needs.
 
 	* Definition of test strategy and quality procedures.
-	* Test design and execution for new  features, daily using Linux and SQL to analyze data.
+	* Test design and execution for new  features, using Linux and SQL on a daily basis to analyze data.
 	* Customized customer releases testing to ensure client expectations are met.
 	* Java, Bash and Python scripts development and code review to automate tests and tasks.
 	* Being this a complicated product I helped to increase QA throughput by almost two times.
@@ -51,9 +51,9 @@ Twitter, Facebook and Tappsi among others.
 2/2012 - 4/2014
 :	**QA Engineer**; [TCP Sistemas e Ingeniería](http://www.linkedin.com/company/tcp) @ [Telefónica Digital](http://www.tid.es) (Madrid, Spain)
 
-	Quality Assurance of [Movistar Wallet](http://todonfc.com/pagos/operadores/movistar-nfc/), the best contactless payment and identification system for Android, Blackberry and J2ME phones with NFC chip. I tested the integration between the application, the SIM card and its applets, the PoS, the servers, Visa and Mastercard management systems, management web interfaces, etc.
+	Quality Assurance of [Movistar Wallet](http://todonfc.com/pagos/operadores/movistar-nfc/), the best contactless payment system for Android, Blackberry and J2ME phones with NFC chip. I tested the integration between the application, the SIM card and its applets, the PoS, the servers, Visa and Mastercard management systems, management web interfaces, etc.
 
-	* Design, implementation, execution and maintenance of a wide range of tests and test suites (system, integration, functional, performance, smoke, acceptance, automatic).
+	* Design, implementation, execution and maintenance of a wide range of tests and test suites (integration, functional, automatic, acceptance, performance).
 	* Resolve small bugs when Development Team’s workload was high.
 	* Define application behaviour in points not thoroughly defined.
 
@@ -70,7 +70,7 @@ Technical skills
 Programming Languages
 :   **Java:** I started as a Java intern developer. I am comfortable writing any kind of application, but still not a developer. I have written some functional **Android** applications for internal and personal consumption.
 
-:   **Python:** Still a beginner but comfortable enough to write tests and helper applications.
+:   **Python:** Still a beginner but comfortable enough to write tests, scripts and helper applications.
 	I am *very interested* in pushing this forward.
 
 :   **SQL:** I have used it daily for two years to gather information from DB and review views' definitions.
