@@ -13,7 +13,7 @@ Education
 ---------
 
 2001 - 2010
-:   **Computer Engineering**; [University of Seville](https://www.informatica.us.es/) (Seville, Spain)
+:   **Major in Computer Engineering**; [University of Seville](https://www.informatica.us.es/) (Seville, Spain)
 
     *Erasmus exchange program 2006/2007: Studied at [Hochschule Furtwangen University](http://www.hs-furtwangen.de) (Furtwangen, Germany).*
 
@@ -60,8 +60,8 @@ Twitter, Facebook and Tappsi among others.
 2/2011 - 12/2011
 :	**QA Analyst**; [Tuenti Technologies S.L.](https://www.tuenti.es) (Madrid, Spain)
 
-	I was responsible for the quality of Tuenti Android and J2ME applications, and for internal community management tools, seeking and handling bugs and designing test plans.
-	During the time I was responsible for Android and J2ME applications they experienced a constant user base growth and a better feedback from users, going from 2.5 stars in the Android market to 3.5 stars rating.
+	I was responsible for the quality of Tuenti Android and J2ME applications, and for internal community management tools, seeking and handling bugs and designing test plans.  
+	During the time I was responsible for Android and J2ME applications both user bases experienced a constant  growth and a better feedback from users, going from 2.5 stars in the Android market to 3.5 stars rating.
 
 
 Technical skills
