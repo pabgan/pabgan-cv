@@ -13,12 +13,12 @@ Education
 ---------
 
 2001 - 2010
-:   **Major in Computer Engineering**; [University of Seville](https://www.informatica.us.es/) (Seville, Spain)
+:	**Major in Computer Engineering**; [University of Seville](https://www.informatica.us.es/) (Seville, Spain)
 
-    *Erasmus exchange program 2006/2007: Studied at [Hochschule Furtwangen University](http://www.hs-furtwangen.de) (Furtwangen, Germany).*
+	*Erasmus exchange program 2006/2007: Studied at [Hochschule Furtwangen University](http://www.hs-furtwangen.de) (Furtwangen, Germany).*
 
 2013
-:   **ISTQB Certified Tester**; [International Software Testing Qualification Board](http://www.istqb.org/) (Madrid, Spain)
+:	**ISTQB Certified Tester**; [International Software Testing Qualification Board](http://www.istqb.org/) (Madrid, Spain)
 
 Experience
 ----------
@@ -29,7 +29,7 @@ Experience
 	Quality Assurance of generic [DSL/GPON Expresse](https://www.assia-inc.com/products/dsl-expresse/) product and validation and testing of customized releases for customer specific needs.
 
 	* Definition of test strategy and quality procedures.
-	* Test design and execution for new  features, using Linux and SQL on a daily basis to analyze data.
+	* Test design and execution for new features, using Linux and SQL on a daily basis to analyze data.
 	* Customized customer releases testing to ensure client expectations are met.
 	* Java, Bash and Python scripts development and code review to automate tests and tasks.
 	* Being this a complicated product I helped to increase QA throughput by almost two times.
@@ -61,26 +61,26 @@ Twitter, Facebook and Tappsi among others.
 :	**QA Analyst**; [Tuenti Technologies S.L.](https://www.tuenti.es) (Madrid, Spain)
 
 	I was responsible for the quality of Tuenti Android and J2ME applications, and for internal community management tools, seeking and handling bugs and designing test plans.  
-	During the time I was responsible for Android and J2ME applications both user bases experienced a constant  growth and a better feedback from users, going from 2.5 stars in the Android market to 3.5 stars rating.
+	During the time I was responsible for Android and J2ME applications both user bases experienced a constant growth and a better feedback from users, going from 2.5 stars in the Android market to 3.5 stars rating.
 
 
 Technical skills
 ----------------
 
 Programming Languages
-:   **Java:** I started as a Java intern developer. I am comfortable writing any kind of application, but still not a developer. I have written some functional **Android** applications for internal and personal consumption.
+:	**Java:** I started as a Java intern developer. I am comfortable writing any kind of application, but still not a developer. I have written some functional **Android** applications for internal and personal consumption.
 
-:   **Python:** Still a beginner but comfortable enough to write tests, scripts and helper applications.
+:	**Python:** Still a beginner but comfortable enough to write tests, scripts and helper applications.
 	I am *very interested* in pushing this forward.
 
-:   **SQL:** I have used it daily for two years to gather information from DB and review views' definitions.
+:	**SQL:** I have used it daily for two years to gather information from DB and review views' definitions.
 
 :	**Bash:** I do some basic scripting to ease my life.
 
-:   Very basic knowledge of **C**, having used it at University.
+:	Very basic knowledge of **C**, having used it at University.
 
 Other technologies
-:   **Linux:** I have used it as my main and unique (when possible) system since 2007.
+:	**Linux:** I have used it as my main and unique (when possible) system since 2007.
 
 :	**Git:** Comfortable with common use cases (push, pull, commit, branch, discard changes, etc.). Basic knowledge of other VCSs such as **Subversion** and **CVS**.
 
