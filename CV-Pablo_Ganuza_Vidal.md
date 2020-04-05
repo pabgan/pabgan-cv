@@ -35,7 +35,7 @@ Experience
 	* Being this a complicated product I helped to increase QA throughput by almost two times.
 
 3/2016 - 12/2016
-:	**Senior QA Engineer**; [TCP Sistemas e Ingeniería](http://www.linkedin.com/company/tcp) @ [Microsoft](http://www.microsoft.com) (Madrid, Spain)
+:	**Senior QA Engineer**; [TCP Sistemas e Ingeniería](https://www.linkedin.com/company/ustglobal) @ [Microsoft](http://www.microsoft.com) (Madrid, Spain)
 
 	Quality Assurance of [Real Madrid](http://www.realmadrid.com/landings/RealMadridApp/) application for Android, iOS and Windows.
 
@@ -43,13 +43,13 @@ Experience
 	* I managed a group of six people to achieve goals set by QA manager.
 
 5/2014 - 6/2015
-:	**QA Engineer**; [TCP Sistemas e Ingeniería](http://www.linkedin.com/company/tcp) @ [Telefónica Digital](http://www.tid.es) (Madrid, Spain)
+:	**QA Engineer**; [TCP Sistemas e Ingeniería](https://www.linkedin.com/company/ustglobal) @ [Telefónica Digital](http://www.tid.es) (Madrid, Spain)
 
 	Manual testing of a long list of Firefox OS applications, including TomTom, BBVA,
 Twitter, Facebook and Tappsi among others.
 
 2/2012 - 4/2014
-:	**QA Engineer**; [TCP Sistemas e Ingeniería](http://www.linkedin.com/company/tcp) @ [Telefónica Digital](http://www.tid.es) (Madrid, Spain)
+:	**QA Engineer**; [TCP Sistemas e Ingeniería](http://www.linkedin.com/company/ustglobal) @ [Telefónica Digital](http://www.tid.es) (Madrid, Spain)
 
 	Quality Assurance of [Movistar Wallet](http://todonfc.com/pagos/operadores/movistar-nfc/), the best contactless payment system for Android, Blackberry and J2ME phones with NFC chip. I tested the integration between the application, the SIM card and its applets, the PoS, the servers, Visa and Mastercard management systems, management web interfaces, etc.
 
