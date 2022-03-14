@@ -56,12 +56,12 @@ Technical skills
 ----------------
 
 Programming Languages
-:	_Please, check out my [github](https://github.com/pabgan) and [gitlab](https://gitlab.com/pabgan) profiles for some of my code._
+:	_Please, check out my [gitlab](https://gitlab.com/pabgan) and [github](https://github.com/pabgan) profiles for some of my code._
 :	**Python:** (~2y) Still a junior, but comfortable enough to write tests, scripts and small to medium applications. I am **very interested** in pushing this forward and even becoming a legit Python developer.
 
 :	**SQL:** (~3y) I have used it daily to extract information from DB and review views' definitions.
 
-:	**ZSH/Bash:** (~3y) I do some _not-so-basic-anymore_ scripting to ease my life.
+:	**ZSH/Bash:** (~3y) I do some _not-that-basic-anymore_ scripting to ease my life.
 
 :	**Java:** (~5y) I started as a Java intern developer. I am comfortable writing any kind of application, but still not a developer.
 
@@ -75,15 +75,10 @@ Other technologies
 
 
 On the hunt for
-:	Python, Docker, Ansible.
+:	Python, Docker, Ansible and DevOps in general.
 :	UNIX philosophy at work.
 :	Remote working.
 
-
-Running away from
-:	Microsoft, Oracle, proprietary software and vendor lock-in technology.
-:	Javascript bloat and fancy UIs.
-:	Trendy frameworks (`$vegetable_name`) and unnecessary dependencies. 
 
 Personal information
 -----------------
