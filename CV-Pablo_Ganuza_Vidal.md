@@ -29,7 +29,7 @@ Experience
 
 	* Definition of test strategy and quality procedures under **minimal supervision and specifications. Remotely** the last 2 years.
 	* Test design and execution for new features, using **Linux** and **SQL** on a daily basis to analyze data.
-	* **Java, Bash and Python** scripts development and code review to automate tests and tasks.
+	* **Java, shell (bash and ZSH) and Python** scripts development and code review to automate tests and tasks.
 	* Being this a complicated product I helped to increase QA throughput by almost two times.
 
 3/2016 - 12/2016
@@ -75,7 +75,7 @@ Other technologies
 
 
 On the hunt for
-:	Python, Docker, Ansible and DevOps in general.
+:	Python, containers, Ansible and automation and DevOps in general.
 :	UNIX philosophy at work.
 :	Remote working.
 
