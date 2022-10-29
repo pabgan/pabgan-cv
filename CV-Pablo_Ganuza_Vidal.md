@@ -23,13 +23,13 @@ Experience
 ----------
 
 1/2017 - Present 
-:	**QA automation Engineer**; [ASSIA](https://www.assia-inc.com) (Madrid, SPAIN)
+:	**QA automation Engineer**; [ASSIA](https://www.assia-inc.com) (Madrid, SPAIN) now [DZS](https://dzsi.com/)
 
 	Quality Assurance of generic [DSL/GPON Expresse](https://www.assia-inc.com/products/dsl-expresse/) product and validation and testing of customized releases for customer specific needs.
 
-	* Definition of test strategy and quality procedures under **minimal supervision and specifications. Remotely** the last 2 years.
+	* Definition of test strategy and quality procedures under **minimal supervision and specifications. Remotely** the last 3 years.
 	* Test design and execution for new features, using **Linux** and **SQL** on a daily basis to analyze data.
-	* **Java, shell (bash and ZSH) and Python** scripts development and code review to automate tests and tasks.
+	* **Java, shell (bash and ZSH) and Python** scripts and **frameworks development** and code review to automate tests and tasks.
 	* Being this a complicated product I helped to increase QA throughput by almost two times.
 
 3/2016 - 12/2016
@@ -56,14 +56,14 @@ Technical skills
 ----------------
 
 Programming Languages
-:	_Please, check out my [gitlab](https://gitlab.com/pabgan) and [github](https://github.com/pabgan) profiles for some of my code._
-:	**Python:** (~2y) Still a junior, but comfortable enough to write tests, scripts and small to medium applications. I am **very interested** in pushing this forward and even becoming a legit Python developer.
+:	_Please, check out my [gitlab](https://gitlab.com/pabgan) and [github (deprecated)](https://github.com/pabgan) profiles for some of my code._
+:	**Python:** (~3y) Still a junior, but comfortable enough to write tests, scripts and small to medium applications. I am **very interested** in pushing this forward and even becoming a legit Python developer.
 
-:	**SQL:** (~3y) I have used it daily to extract information from DB and review views' definitions.
+:	**SQL:** (~4y) I have used it daily to extract information from DB and review views' definitions.
 
-:	**ZSH/Bash:** (~3y) I do some _not-that-basic-anymore_ scripting to ease my life.
+:	**ZSH/Bash:** (~4y) I do some _not-that-basic-anymore_ scripting to ease my life.
 
-:	**Java:** (~5y) I started as a Java intern developer. I am comfortable writing any kind of application, but still not a developer.
+:	**Java:** (~6y) I started as a Java intern developer. I am comfortable writing any kind of application, but still not a developer.
 
 
 Other technologies
@@ -97,4 +97,4 @@ Personal information
 > <pabloganuza@gmail.com> • +34 699 21 40 50 \
 >  Guadalix de la Sierra, Madrid, SPAIN \
 > [https://gitlab.com/pabgan](https://gitlab.com/pabgan) \
-> [https://github.com/pabgan](https://github.com/pabgan) \
+> [https://github.com/pabgan](https://github.com/pabgan) **(deprecated)** \
