@@ -29,7 +29,7 @@ Experience
 
 	* Definition of test strategy and quality procedures under **minimal supervision and specifications. Remotely** the last 3 years.
 	* Test design and execution for new features, using **Linux** and **SQL** on a daily basis to analyze data.
-	* **Java, shell (bash and ZSH) and Python** scripts and **frameworks development** and code review to automate tests and tasks.
+	* **Java, shell (Bash/ZSH) and Python** scripts and **test frameworks development**.
 	* Being this a complicated product I helped to increase QA throughput by almost two times.
 
 3/2016 - 12/2016
@@ -57,13 +57,13 @@ Technical skills
 
 Programming Languages
 :	_Please, check out my [gitlab](https://gitlab.com/pabgan) and [github (deprecated)](https://github.com/pabgan) profiles for some of my code._
-:	**Python:** (~3y) Still a junior, but comfortable enough to write tests, scripts and small to medium applications. I am **very interested** in pushing this forward and even becoming a legit Python developer.
+:	**Python:** (~3y) Comfortable enough to write tests, scripts and small to medium applications. I am **very interested** in pushing this forward and even becoming a legit Python developer.
 
 :	**SQL:** (~4y) I have used it daily to extract information from DB and review views' definitions.
 
 :	**ZSH/Bash:** (~4y) I do some _not-that-basic-anymore_ scripting to ease my life.
 
-:	**Java:** (~6y) I started as a Java intern developer. I am comfortable writing any kind of application, but still not a developer.
+:	**Java:** (~6y) I am comfortable writing any kind of application, but still not a developer.
 
 
 Other technologies
@@ -89,7 +89,7 @@ Personal information
 	* English         --  High level (B2 CEFR)
 	* German & French --  Basic level (A2 CEFR)
 
-* **Interests:** Home servers (OpenMediaVault, syncthing, Nextcloud...), cooking, motorbikes,\
+* **Interests:** Home servers (OpenMediaVault, Syncthing, Nextcloud...), cooking, motorbikes,\
 		breaking and fixing stuff...
 
 ----
