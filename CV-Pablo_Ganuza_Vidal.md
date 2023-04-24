@@ -23,9 +23,9 @@ Experience
 ----------
 
 1/2017 - Present 
-:	**QA automation Engineer**; [ASSIA](https://www.assia-inc.com) (Madrid, SPAIN) now [DZS](https://dzsi.com/)
+:	**QA automation Engineer**; [DZS](https://dzsi.com/) after acquiring part of [ASSIA](https://www.assia-inc.com) (Madrid, SPAIN)
 
-	Quality Assurance of generic [DSL/GPON Expresse](https://www.assia-inc.com/products/dsl-expresse/) product and validation and testing of customized releases for customer specific needs.
+	Quality Assurance of generic [DSL/GPON Expresse](https://dzsi.com/product/dzs-expresse/) product and validation and testing of customized releases for customer specific needs.
 
 	* Definition of test strategy and quality procedures under **minimal supervision and specifications. Remotely** the last 3 years.
 	* Test design and execution for new features, using **Linux** and **SQL** on a daily basis to analyze data.
@@ -33,17 +33,17 @@ Experience
 	* Being this a complicated product I helped to increase QA throughput by almost two times.
 
 3/2016 - 12/2016
-:	**Senior QA Engineer**; [UST Global](https://www.linkedin.com/company/ustglobal) @ [Microsoft](http://www.microsoft.com) (Madrid, Spain)
+:	**Senior QA Engineer**; [UST Global](https://www.ust.com) @ [Microsoft](http://www.microsoft.com) (Madrid, Spain)
 
 	I played the role of **QA lead** for Quality Assurance of [Real Madrid](http://www.realmadrid.com/landings/RealMadridApp/) application for Android, iOS and Windows. I managed a group of six people to achieve goals set by QA manager.
 
 
 2/2012 - 6/2015
-:	**QA Engineer**; [UST Global](http://www.linkedin.com/company/ustglobal) @ [Telefónica Digital](http://www.tid.es) (Madrid, Spain)
+:	**QA Engineer**; [UST Global](https://www.ust.com) @ [Telefónica Digital](http://www.tid.es) (Madrid, Spain)
 
-	Quality Assurance of [Movistar Wallet](http://todonfc.com/pagos/operadores/movistar-nfc/). Design, implementation, execution and maintenance of a wide range of tests and test suites (integration, functional, automatic, acceptance, performance).
+	Quality Assurance of Movistar Wallet (NFC-based mobile payment application). Design, implementation, execution and maintenance of a wide range of tests and test suites (integration, functional, automatic, acceptance, performance).
 
-	Also, manual testing of a long list of Firefox OS applications.
+	Also, manual testing of a long list of [Firefox OS](https://en.wikipedia.org/wiki/Firefox_OS) applications.
 
 2/2011 - 12/2011
 :	**QA Analyst**; [Tuenti Technologies S.L.](https://www.tuenti.es) (Madrid, Spain)
